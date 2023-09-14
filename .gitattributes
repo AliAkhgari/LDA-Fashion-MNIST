@@ -1,0 +1,2 @@
+Fashion-MNIST/trainData.csv filter=lfs diff=lfs merge=lfs -text
+Fashion-MNIST/trainLabels.csv filter=lfs diff=lfs merge=lfs -text
